@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CAR LOAN CALCULATOR</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="price">Car Price</string>
+    <string name="rate">Interest Rate (%)</string>
+    <string name="loan">Loan Period (Year)</string>
+    <string name="down_pymt">Down Payment</string>
+    <string name="inc">Income</string>
+    <string name="monthly_payment">Monthly Payment</string>
+    <string name="bank">Bank</string>
+    <string name="calculate">CALCULATE</string>
+    <string name="reset">RESET</string>
+    <string name="close">CLOSE</string>
+    <string name="laonAmt">Loan Amount: RM </string>
+    <string name="interestAmt">Interest Amount: RM </string>
+    <string name="mthPayment">Monthly Payment: RM </string>
+    <string name="eligible1">Congratz! You are eligible to apply the loan!</string>
+    <string name="eligible2">Sorry, you are not eligible to apply the loan!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="about">About</string>
+    <string name="terms_conditions">Terms and Condition</string>
+</resources>

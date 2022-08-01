@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pinjaman Kereta</string>
+    <string name="rate">Kadar Faedah (%)</string>
+    <string name="price">Harga Kereta</string>
+    <string name="down_pymt">Bayaran Pendahuluan</string>
+    <string name="inc">Pendapatan</string>
+    <string name="loan">Tempoh Pinjaman (Tahun)</string>
+    <string name="action_settings">Tetapan</string>
+</resources>

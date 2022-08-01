@@ -1,0 +1,9 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="height">100dp</dimen>
+    <dimen name="width">100dp</dimen>
+    <dimen name="font_large">22sp</dimen>
+    <dimen name="font_med">15sp</dimen>
+    <dimen name="font_small">8sp</dimen>
+
+</resources>
